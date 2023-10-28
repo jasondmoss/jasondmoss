@@ -1,3 +1,4 @@
+<link rel="me profile" href="https://mastodon.online/@jasondmoss">
 ### Jason D. Moss
 @jasondmoss
 
