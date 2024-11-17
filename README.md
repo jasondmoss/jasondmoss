@@ -2,9 +2,11 @@
 
 ### Jason D. Moss
 
-@jasondmoss
+## I handcraft websites.
 
-I plan, develop, implement and maintain modern web sites, adhering to strict open standards and conventions.
+Or, to be more specific, I plan, develop, implement and maintain modern sites: from large multi-tiered sites, small single-page applications, custom APIs, to custom modules and plug-ins.
+
+I specialize in developing with Drupal, Laravel, Craft CMS, WordPress and countless other tools and solutions (Symfony, ExpressionEngine, b2evolution, Shopify, to name just a few).
 
 ***Compliant. Portable. Functional.***
 
