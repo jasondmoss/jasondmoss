@@ -6,7 +6,7 @@
 
 Or, to be more specific, I plan, develop, implement and maintain modern sites: from large multi-tiered sites, small single-page applications, custom APIs, to custom modules and plug-ins.
 
-I specialize in developing with Drupal, Laravel, Craft CMS, WordPress and countless other tools and solutions (Symfony, ExpressionEngine, b2evolution, Shopify, to name just a few).
+I specialize in developing with Symfony, Drupal, Laravel, Craft CMS, WordPress, B2evolution and countless other tools and solutions.
 
 ***Compliant. Portable. Functional.***
 
